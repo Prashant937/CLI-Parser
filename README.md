@@ -1,6 +1,6 @@
 # CLI Parser
 
-A command-line utility to print a message using scala.
+A command-line utility to print greeting in different languages using scala.
 
 ```
 Usage: parsing flag
